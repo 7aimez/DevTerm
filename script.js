@@ -1,12 +1,5 @@
 function run() {
-  // Get the content of the textarea
-  // const codeContent = document.getElementById('code').value;
-
-  // Use eval to run the code
-  // eval(codeContent);
-
-  // Show the content in another file
-  // const outputContent = document.getElementById('output').value;
+  code = document.getElementById("code")
 }
 
 function save() {
@@ -20,5 +13,6 @@ function load() {
 }
 
 function clear() {
-  document.getElementById("code").value = ""
+  code = document.getElementById("code")
+  code.value = ""
 }
