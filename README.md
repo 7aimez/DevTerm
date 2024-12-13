@@ -11,4 +11,4 @@ A flexible code-space for all languages.
 
 ## Report Issues
 
-[Click here]
+[Click here](https://github.com/7aimez/DevTerm/issues) to report issues.
