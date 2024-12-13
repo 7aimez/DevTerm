@@ -1,5 +1,6 @@
 function run() {
   code = document.getElementById("code")
+  code = code.replace(" ","")
 }
 
 function save() {
