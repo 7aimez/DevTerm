@@ -8,3 +8,7 @@ A flexible code-space for all languages.
 - **Document Load** - Click load then enter the name of the document that you wish to load
 
 ***More features coming soon!***
+
+## Report Issues
+
+[Click here]
