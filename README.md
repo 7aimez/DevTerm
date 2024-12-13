@@ -1,3 +1,5 @@
+<img src="banner.png" width="50%">
+
 # DevTerm
 A flexible code-space for all languages.
 
